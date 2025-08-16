@@ -1,0 +1,4 @@
+[core]
+    remote = my_storage
+['remote "my_storage"']
+    url = H:\MLOPS\demoS3bucket
